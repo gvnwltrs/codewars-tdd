@@ -1,4 +1,4 @@
-const _8thkyu = require("../js/8thkyu"); 
+const _8thkyu = require("../js/SentenceSmash"); 
 const chai = require("chai");
 const assert = chai.assert; 
 chai.config.truncateThreshold=0; 
